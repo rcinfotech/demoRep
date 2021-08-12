@@ -1,3 +1,5 @@
 <?php
-die("we have got this");
+
+die(" chanes made ");
+
 ?>
