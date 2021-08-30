@@ -1,5 +1,6 @@
 <?php
 # dev1
-die(" chanes made ");
+
+echo "changes made to dev1 branch";
 
 ?>
