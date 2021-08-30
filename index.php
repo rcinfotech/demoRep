@@ -1,5 +1,5 @@
 <?php
 # main index
-die(" chanes made in miain branch");
+die("Changes made in dev1 branch (merge in main later on)");
 
 ?>
