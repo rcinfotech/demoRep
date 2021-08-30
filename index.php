@@ -1,5 +1,7 @@
 <?php
+#new changes
 
-die(" chanes made ");
-#changes in dev1
+ foreach ($variable as $key => $value) {
+     # code...
+ }
 ?>
