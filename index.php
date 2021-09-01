@@ -1,6 +1,4 @@
 <?php
-# dev1
-
-echo "changes made to dev1 branch";
-
+# dev 2
+die("we have got this");
 ?>
