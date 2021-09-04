@@ -1,5 +1,5 @@
 <?php
-# changes of masters
+# changes in featureTest after rebase
 
 for ($i=0; $i < 10 ; $i++) { 
     # code...
@@ -8,6 +8,12 @@ for ($i=0; $i < 10 ; $i++) {
 while ($a <= 10) {
     # code...
 }
-$retVal = (condition) ? a : b ;
+
+if (condition) {
+    # code...
+} else {
+    # code...
+}
+
 
 ?>
