@@ -1,7 +1,6 @@
 <?php
-#here is changes after push and pull
-# dev 1
-#ecperiment test rebase bla bla
+# changes of masters
+
 for ($i=0; $i < 10 ; $i++) { 
     # code...
 }
@@ -9,5 +8,6 @@ for ($i=0; $i < 10 ; $i++) {
 while ($a <= 10) {
     # code...
 }
+$retVal = (condition) ? a : b ;
 
 ?>
