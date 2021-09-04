@@ -1,4 +1,11 @@
 <?php
 # dev 2
-die("we have got this");
+for ($i=0; $i < 10 ; $i++) { 
+    # code...
+}
+
+while ($a <= 10) {
+    # code...
+}
+
 ?>
